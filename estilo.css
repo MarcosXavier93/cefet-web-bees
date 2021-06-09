@@ -32,7 +32,7 @@ body > p{
     background-image: linear-gradient(to top,white , rgb(186, 183, 183));
     border-width: 50px;
     fill-opacity: 50%;
-    
+    box-shadow: 4px 4px 4px #0003
 }
 p.curiosidade{
    border-style: solid;
@@ -61,6 +61,7 @@ img.casta-de-abelha{
     float: right;
     margin-left: 5%;
     shape-outside: circle(50%);
+    
 
 }
 p.zangao{
